@@ -7,12 +7,12 @@ I'm a dedicated **Computer Science** student at **Metropolitan University**, pas
 - **Technologies**: Data Science, Web Scraping, Data Structures
 
 ### Connect with Me:
-- GitHub: [Navid444](https://github.com/navid444)
+- Email: [navid166418@gmail.com](mailto:navid166418@gmail.com)
+- LinkedIn: [navid-zaman-khan](https://www.linkedin.com/in/navid-zaman-khan)
 - Twitter: [NavidZamanKhan2](https://twitter.com/NavidZamanKhan2)
 - Instagram: [Navid_zaman_khan](https://www.instagram.com/navid_zaman_khan)
-- LinkedIn: [navid-zaman-khan](https://www.linkedin.com/in/navid-zaman-khan)
 - Facebook: [Navid Zaman Khan](https://www.facebook.com/profile.php?id=100034537722078)
-- Email: [navid166418@gmail.com](mailto:navid166418@gmail.com)
+
 
 ### Fun Fact:
 Outside of coding, I enjoy spending time with my cat, who always manages to keep life interesting.
