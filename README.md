@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Navid444
+# 👋 Hi, I’m Navid
 
 👨‍💻 I'm passionate about software development and currently studying CSE at Metropolitan University. 
 
