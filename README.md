@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Navid
+👋 Hi, I’m Navid
 
 👨‍💻 I'm passionate about software development and currently studying CSE at Metropolitan University. 
 
@@ -15,5 +15,7 @@
 - Twitter: [NavidZamanKhan2](https://twitter.com/NavidZamanKhan2)
 - Instagram: [Navid_zaman_khan](https://www.instagram.com/navid_zaman_khan)
 - LinkedIn: [navid-zaman-khan](https://www.linkedin.com/in/navid-zaman-khan)
+- Facebook: [Navid Zaman Khan](https://www.facebook.com/profile.php?id=100034537722078)
+- Email: [navid166418@gmail.com](mailto:navid166418@gmail.com)
 
 💡 Fun fact: When I'm not coding, I'm probably hanging out with my cat, who always keeps me on my toes! 🐾
