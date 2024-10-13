@@ -15,4 +15,4 @@ I'm a dedicated **Computer Science** student at **Metropolitan University**, pas
 - Email: [navid166418@gmail.com](mailto:navid166418@gmail.com)
 
 ### Fun Fact:
-Outside of coding, I enjoy spending time with my cat **Bolai**, who always manages to keep life interesting.
+Outside of coding, I enjoy spending time with my cat, who always manages to keep life interesting.
