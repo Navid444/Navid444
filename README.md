@@ -3,7 +3,7 @@
 I'm a dedicated **Computer Science** student at **Metropolitan University**, passionate about building innovative solutions through software development. My current focus is mastering **Python** and expanding my skill set with **Flutter** and **Dart**, as I work toward my goal of becoming a skilled **app developer**.
 
 ### What I Know:
-- **Programming Languages**: Python, HTML, CSS
+- **Programming Languages**: Python, HTML, CSS, C
 - **Technologies**: Data Science, Web Scraping, Data Structures
 
 ### Connect with Me:
