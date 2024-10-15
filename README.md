@@ -24,8 +24,8 @@ I'm a dedicated Computer Science student at [Metropolitan University](https://ww
   ![Requests](https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=requests&logoColor=white)
   ![Time](https://img.shields.io/badge/Time-808080?style=for-the-badge&logo=clockify&logoColor=white)
 
-## 📊 Profile views:  
-![Profile View Count](https://komarev.com/ghpvc/?username=Navid444&style=flat-square)
+## 📊 My GitHub states:  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave)
 
 ## 🌐 Connect with Me:
 
