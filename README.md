@@ -1,4 +1,4 @@
-###👋 Hi, I'm Navid  
+## 👋🏼 Hi, I'm Navid  
 I'm a dedicated Computer Science student at [Metropolitan University](https://www.metrouni.edu.bd), passionate about building innovative solutions through software development. My current focus is mastering Python and expanding my skill set with Flutter and Dart, as I work toward my goal of becoming a skilled app developer.
 
 ## 🔧 What I Know:
