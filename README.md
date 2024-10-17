@@ -59,7 +59,7 @@ I'm a dedicated Computer Science student at [Metropolitan University](https://ww
     <a href="https://fb.com/profile.php?id=100034537722078" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="navid-zaman-khan" height="30" width="40" />
     </a>
-    <a href="https://instagram.com/navid_zaman_khan" target="_blank">
+    <a href="https://instagram.com/navidzamankhan" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="navid_zaman_khan" height="30" width="40" />
     </a>
     <a href="https://twitter.com/NavidZamanKhan2" target="_blank">
