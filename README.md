@@ -45,13 +45,10 @@ I'm a dedicated Computer Science student at [Metropolitan University](https://ww
 ![Time](https://img.shields.io/badge/Time-808080?style=for-the-badge&logo=clockify&logoColor=white)
 
 ## 📊 My GitHub Stats:
-<p align="left">
-    <img src="https://img.shields.io/badge/Profile%20views-70-AA0078?labelColor=301934&style=flat-square" alt="Navid444"/>
-</p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navid444&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Navid444's Top Languages" style="width: 47%;">
-<img src="https://github-readme-stats.vercel.app/api?username=Navid444&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Navid444's Stats" style="width: 52%; height: 100%">
-<img id="profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Navid444&theme=radical" alt="Profile Details" style="width: 100%;">
-
+<p align="left"> <img src="https://img.shields.io/badge/Profile%20views-70-AA0078?labelColor=301934&style=flat-square" alt="NavidZamanKhan"/> </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavidZamanKhan&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="NavidZamanKhan's Top Languages" style="width: 47%;">
+<img src="https://github-readme-stats.vercel.app/api?username=NavidZamanKhan&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="NavidZamanKhan's Stats" style="width: 52%; height: 100%">
+<img id="profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NavidZamanKhan&theme=radical" alt="Profile Details" style="width: 100%;">
 
 
 ## 🌐 Connect with Me:
