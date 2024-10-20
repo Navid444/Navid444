@@ -26,6 +26,8 @@
 
 I'm a dedicated Computer Science student at [Metropolitan University](https://www.metrouni.edu.bd), passionate about building innovative solutions through software development. My current focus is mastering Python and expanding my skill set with Flutter and Dart, as I work toward my goal of becoming a skilled app developer.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Navid444&label=Profile%20views&color=0e75b6&style=flat" alt="Navid444" /> </p>
+
 ## 💻 Technologies I've worked and working with:
 
 ### Languages and Frameworks:
