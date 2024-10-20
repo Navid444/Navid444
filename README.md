@@ -26,8 +26,6 @@
 
 I'm a dedicated Computer Science student at [Metropolitan University](https://www.metrouni.edu.bd), passionate about building innovative solutions through software development. My current focus is mastering Python and expanding my skill set with Flutter and Dart, as I work toward my goal of becoming a skilled app developer.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Navid444&label=Profile%20views&color=0e75b6&style=flat" alt="Navid444" /> </p>
-
 ## 💻 Technologies I've worked and working with:
 
 ### Languages and Frameworks:
@@ -47,6 +45,7 @@ I'm a dedicated Computer Science student at [Metropolitan University](https://ww
 ![Time](https://img.shields.io/badge/Time-808080?style=for-the-badge&logo=clockify&logoColor=white)
 
 ## 📊 My GitHub Stats:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Navid444&label=Profile%20views&color=0e75b6&style=flat" alt="Navid444" /> </p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navid444&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Navid444's Top Languages" style="width: 47%;">
 <img src="https://github-readme-stats.vercel.app/api?username=Navid444&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Navid444's Stats" style="width: 52%; height: 100%">
 <img id="profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Navid444&theme=radical" alt="Profile Details" style="width: 100%;">
