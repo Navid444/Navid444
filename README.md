@@ -29,10 +29,10 @@ I'm a dedicated Computer Science student at [Metropolitan University](https://ww
 ## 💻 Technologies I've worked and working with:
 
 ### Languages and Frameworks:
-[![Skills](https://skillicons.dev/icons?i=python,flask,html,css,bootstrap,scss,c,flutter,dart,git,github,ChatGPT)](#)
+[![Skills](https://skillicons.dev/icons?i=python,flask,html,css,bootstrap,scss,c,flutter,dart,git)](#)
 
 ### Technology and Software:
-[![Tools](https://skillicons.dev/icons?i=vscode,notion,stackoverflow,ps)](#)
+[![Tools](https://skillicons.dev/icons?i=vscode,notion,github,stackoverflow,ps)](#)
 
 ## 📚 The Libraries and Tools I'm very efficient at:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
