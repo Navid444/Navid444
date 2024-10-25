@@ -35,6 +35,7 @@ I'm a dedicated Computer Science student at [Metropolitan University](https://ww
 [![Tools](https://skillicons.dev/icons?i=vscode,notion,github,stackoverflow,ps)](#)
 
 ## 📚 The Libraries and Tools I'm very efficient at:
+![Jinja](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=tkinter&logoColor=white)
