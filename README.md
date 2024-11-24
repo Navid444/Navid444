@@ -64,7 +64,7 @@ I'm a dedicated Computer Science student at [Metropolitan University](https://ww
     <a href="https://instagram.com/navidzamankhan" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="navid_zaman_khan" height="30" width="40" />
     </a>
-    <a href="https://twitter.com/NavidZamanKhan2" target="_blank">
+    <a href="https://twitter.com/NavidZamanKhan" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NavidZamanKhan2" height="30" width="40" />
     <a href="https://discordapp.com/users/navid_zaman_khan" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="navid_zaman_khan" height="40" width="40" />
