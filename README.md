@@ -29,7 +29,7 @@ I'm a dedicated Computer Science student at [Metropolitan University](https://ww
 ## 💻 Technologies I've worked and working with:
 
 ### Languages and Frameworks:
-[![Skills](https://skillicons.dev/icons?i=flutter,dart,python,flask,html,css,bootstrap,scss,c,git)](#)
+[![Skills](https://skillicons.dev/icons?i=flutter,dart,python,flask,html,css,bootstrap,scss,c,cpp,git)](#)
 
 ### Technology and Software:
 [![Tools](https://skillicons.dev/icons?i=vscode,androidstudio,visualstudio,powershell,bash,notion,github,stackoverflow,ps)](#)
