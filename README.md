@@ -32,7 +32,7 @@ I'm a dedicated Computer Science student at [Metropolitan University](https://ww
 [![Skills](https://skillicons.dev/icons?i=flutter,dart,python,flask,html,css,bootstrap,scss,c,git)](#)
 
 ### Technology and Software:
-[![Tools](https://skillicons.dev/icons?i=vscode,notion,github,stackoverflow,ps)](#)
+[![Tools](https://skillicons.dev/icons?i=vscode,androidstudio,visualstudio,powershell,bash,notion,github,stackoverflow,ps)](#)
 
 ## 📚 The Libraries and Tools I'm very efficient at:
 ![Jinja](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white)
